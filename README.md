@@ -1,4 +1,4 @@
-### Bem vindx! Eu sou Ingrydt!
+### ✨Bem vindx! Eu sou Ingrydt!✨
 
 
 - 👩🏾‍💻 Backend developer
