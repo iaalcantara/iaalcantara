@@ -1,8 +1,10 @@
 ### ✨Bem vindx! Eu sou Ingrydt!✨
 
 
-- 👩🏾‍💻 Backend developer
-- 🔬Biologist
+- 👩🏾‍💻 Desenvolvedora Fullstack
+- 💻 Tecnóloga em Análise e Desenvolvimento de Sistemas
+- 🔬 Bióloga e Mestre em Biociência Animal
+- 😻 Gateira
 
 <div align="center">
   <a href="https://github.com/iaalcantara">
@@ -22,7 +24,7 @@
   <img align="center" alt="Ia-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Ia-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ia-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Avatar" height="150" style="border-radius:50px;" src="https://lh6.googleusercontent.com/P1psMbGETPlN4i7hyHzKMNlC0acLLqsENB8Hudl4ElOCBjTc2_-aUrA7FOc0MW4eJL8jh3gLjXBvi2CBN8w=w1366-h625">
+  
 </div>
   
   ##
