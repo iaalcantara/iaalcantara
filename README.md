@@ -1,7 +1,7 @@
 ### ✨Bem vindx! Eu sou Ingrydt!✨
 
 
-- 👩🏾‍💻 Desenvolvedora Fullstack
+- 👩🏾‍💻 Desenvolvedora Back-end
 - 💻 Tecnóloga em Análise e Desenvolvimento de Sistemas
 - 🔬 Bióloga e Mestre em Biociência Animal
 - 😻 Gateira
